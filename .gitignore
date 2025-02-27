@@ -1,0 +1,15 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore large data files
+*.pkl
+*.xlsx
+*.csv
+*.log
+*.zip
+
+# Ignore environment folders
+env/
+venv/
